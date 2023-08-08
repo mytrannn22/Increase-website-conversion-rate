@@ -24,13 +24,13 @@ In this project, I will explore data from the last 12 months, from **Aug 2022** 
 
 * SQL code
 
-![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/250e6a60-077f-4a57-863e-9833654cb146)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/eb0e1c33-247a-46a8-8062-ae627d2f0c1b)
 
 * Query results
 
-![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/816e3843-04e9-4063-a002-467aa7df436b)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/a156bcf2-f778-48ed-9c26-0c8760cc9374)
 
-![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/eb0b68e3-de78-412f-af1c-2d4fa301f154)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/0cc5db03-7f44-436a-960e-0c6e415d3d70)
 
 **Insight:** Chrome is by far the most popular browser.
 
@@ -41,11 +41,11 @@ Bounce rate is the percentage of visitors who leave the website after viewing on
 
 * SQL code
 
-![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/3f604fee-0f1c-4321-b77e-48c99d46d054)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/c2dd3aba-75b8-4976-9d61-93713a1073e4)
 
 * Query results
 
-![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/3b3d3bff-abaf-4246-b161-c0b7440663ef)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/28ecf6fc-e580-4548-9e18-5116ed0eec96)
 
 **Insight:** 
 * All bounce sessions are made solely by guests.
@@ -59,11 +59,11 @@ Bounce rate is the percentage of visitors who leave the website after viewing on
 
 * SQL code
 
-![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/51ba2662-847e-4ad3-a5dd-e328ec171818)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/df2414ac-9862-4186-b939-f5fad62c25e4)
 
 * Query results
 
-![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/de7a1cfd-f1ae-4d1e-b15d-dc93353690ec)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/0685b2e3-e80e-436c-b47b-7f3f119ebd00)
 
 **Insight:** Bounce rates are relatively the same for all traffic sources, around 13%.
 
@@ -71,11 +71,11 @@ Bounce rate is the percentage of visitors who leave the website after viewing on
 
 * SQL code
 
-![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/983d8acd-e03b-448f-b07c-153ffd26bced)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/fc5d26f2-8eb1-411f-a779-b31a36872452)
 
 * Query results
 
-![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/3c35af8d-4299-48e1-8fae-02347f7e97b8)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/368660ad-4077-4d85-9c6c-07c62deec398)
 
 **Insight:** Bounce rates are relatively the same for all browser, around 13%.
 
@@ -83,11 +83,11 @@ Bounce rate is the percentage of visitors who leave the website after viewing on
 
 * SQL code
 
-![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/1133bb30-20c9-45ec-a8bb-28be7f50c7c5)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/6bb1bbc0-33bb-4949-8ce7-3df9113bcd1d)
 
 * Query results
 
-![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/0acaf64f-c17e-410d-a319-7c849255a704)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/23c049ab-1be0-444e-9955-a86967551007)
 
 **Insight:**  All bounce sessions bounced after viewing a product.
 
@@ -99,13 +99,13 @@ Bounce rate is the percentage of visitors who leave the website after viewing on
 
 * SQL code
 
-![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/4eae2f47-9531-4ee3-a8c6-07b022dee31e)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/f46d8496-f666-4e6c-9cc3-d1806fe83a5a)
 
 * Query results
 
-![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/e71d8cbb-054d-4734-8125-5d635efe049a)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/72eaa7b6-2bd2-4a32-8c70-d53d9eaa9820)
 
-![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/a0849794-c50b-469a-a723-1f4d1a584099)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/47877a92-2d8b-45be-9a7e-25b11ff5b408)
 
 **Insight:** Most traffic come from email, organic drives the least traffic. Conversion rates do not differ among traffic sources, all around 46-47%.
 
@@ -115,19 +115,19 @@ Bounce rate is the percentage of visitors who leave the website after viewing on
 
 * SQL code
 
-![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/eadf16b4-0962-4159-a7cf-cbdee62b7d55)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/ddca9708-5e8d-4cda-ab8d-39516029f60a)
 
 * Query results
 
-![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/b8ef0ede-c4e5-4e21-87a9-0dd66bc9869b)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/5c5face5-becf-475f-bc4f-c3048b78271b)
 
-![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/39a6f5a4-2bfa-4116-9647-44e4313cafe2)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/62b5ac17-1a72-4277-a072-6150f25494ab)
 
-![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/8ea2a247-4b7e-49a8-9487-b09491f10a88)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/449f652c-f937-4ff4-b679-8ecd6ff349e2)
 
 Take out the month and we have the figures for the whole last 12 months.
 
-![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/d3105ca4-9e62-4b5d-a8cd-c3510a0a24ff)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/ed122aba-d45e-40ce-8152-a6b4a894c7fe)
 
 **Insight:**
 * All sessions view at least 1 product.
@@ -141,15 +141,15 @@ Take out the month and we have the figures for the whole last 12 months.
 
 * SQL code
 
-![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/bb4e19cf-79f0-4d2e-bf3e-10dd9df87a2a)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/db71eeb2-458c-4c1e-97dc-f349518bc439)
 
 * Query results
 
-![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/662704dc-3ecf-430f-afbc-78aacd01ca4b)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/bf322116-0642-43b8-be03-5fd02b729fb2)
 
-![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/2eb70c98-d57d-4a4a-88e8-fe5a3e13c861)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/3af9a07d-367f-4fda-b4a3-a9ba4bed048f)
 
-![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/6f8e2887-b4c8-43a4-886b-a0b5cb4d23ce)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/fa92e1e1-bd4f-4555-b6a4-6d1038541a1b)
 
 **Insight:**
 * Session Duration differs dramatically between visitor types.
@@ -166,11 +166,11 @@ Take out the month and we have the figures for the whole last 12 months.
 
 * SQL code
 
-![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/e8506bb1-a0c5-432c-a165-b926d1d82d36)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/4e51b92c-eb76-41bc-be01-101d42758c71)
 
 * Query results
 
-![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/06f2897b-118f-4e1a-8558-ca93e7145526)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/24a4f528-0642-4834-a836-95d95de47897)
 
 **Insight:** 
 * It’s quite surprised that guests (exclude those who bounce) spend noticeably more time on department and product than members , with ~3.6mins on each event type, this can indicate that they are interested in our products, and are likely to register to become members.
@@ -185,13 +185,13 @@ Take out the month and we have the figures for the whole last 12 months.
 
 * SQL code
 
-![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/13f7a3dc-90d9-4c92-b60f-7eb0ce5e9b86)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/a7cc0b67-1c9b-4c9a-abc8-0d6a6f6ba7af)
 
 * Query results
 
-![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/ca1407a9-700f-46b6-b28e-505d734e4d46)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/4431a09f-0ee4-41ec-b9d4-8434ac4bb328)
 
-![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/420bce1e-a9a7-4cba-a539-0385fbdc9369)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/547e335d-e8ad-4441-9373-89c9e1b56c06)
 
 **Insight:** Most sessions view only 1 product, the maximum number of products viewed in a session is only 4
 
@@ -204,13 +204,13 @@ Take out the month and we have the figures for the whole last 12 months.
 
 * SQL code
 
-![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/54399d8a-f659-4088-847d-7f1b4424c262)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/6b5a01c0-3866-4771-bc88-bec1df848727)
 
 * Query results
 
-![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/a4c00189-f9e2-46c4-a7f9-69df18205818)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/fa722e39-19d3-4ff3-afdf-37be6a78b405)
 
-![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/be0c252c-3b28-46e7-8cad-bb74ef7a4536)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/a4d8ae76-0e0a-4fd5-a58d-8102a8b9bde2)
 
 **Insight:** The pattern of adding to cart is quite similar to viewing product. Most sessions add only 1 product to cart, the maximum number of products viewed in a session is only 4.
 
@@ -225,15 +225,15 @@ Purchase frequency is a significant factor that can help to improve conversion r
 
 * SQL code
 
-![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/d6dbd71a-58be-4b8d-a37a-7545b7d45a84)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/616b8ad0-2a01-43c7-8382-1cbb79c227c4)
 
 * Query results
 
-![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/354371a0-72f9-46b4-b4a3-4eca761cb0df)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/a52bc760-a6a9-45d3-994f-a0f94023a920)
 
-![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/b930a783-4256-4741-b272-3e9c4108425f)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/6611065a-4e4e-4520-bcf1-0c13daa0a6b0)
 
-![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/6271b07e-39f2-48ea-95c2-f10f03c9ae28)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/2185bb44-406c-486d-9d89-1f729d902f4d)
 
 **Insight:** Most users purchase only once.
 
