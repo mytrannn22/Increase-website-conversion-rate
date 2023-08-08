@@ -225,13 +225,13 @@ Purchase frequency is a significant factor that can help to improve conversion r
 
 * SQL code
 
-![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/055a9344-9a4e-4f3e-bcdd-a3b49c0828b4)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/d6dbd71a-58be-4b8d-a37a-7545b7d45a84)
 
 * Query results
 
-![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/354371a0-72f9-46b4-b4a3-4eca761cb0df)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/354371a0-72f9-46b4-b4a3-4eca761cb0df)
 
-![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/b930a783-4256-4741-b272-3e9c4108425f)
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/b930a783-4256-4741-b272-3e9c4108425f)
 
 ![image](https://github.com/mytrannn22/increase-web-conversion-rate/assets/140190425/6271b07e-39f2-48ea-95c2-f10f03c9ae28)
 
