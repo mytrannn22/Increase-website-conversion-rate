@@ -5,9 +5,11 @@
 This project aims to explore data by using SQL on [Google BigQuery](https://cloud.google.com/bigquery), quick visualize data by using Google Sheet, draw significant insights and give recommendations for the business question: ***How to increase the website conversion rate?***
 
 
-## II. Dataset Access
+## II. Dataset Access and Overview
 
-The dataset is [theLook eCommerce](https://console.cloud.google.com/marketplace/product/bigquery-public-data/thelook-ecommerce), stored on BigQuery Public Data. TheLook is a fictitious eCommerce clothing site developed by the [Looker](https://cloud.google.com/looker?hl=en_US) team.  The contents of this dataset are synthetic, and are provided to industry practitioners for the purpose of product discovery, testing, and evaluation.
+### Access to dataset
+
+The dataset is in [theLook eCommerce](https://console.cloud.google.com/marketplace/product/bigquery-public-data/thelook-ecommerce), stored on BigQuery Public Data. TheLook is a fictitious eCommerce clothing site developed by the [Looker](https://cloud.google.com/looker?hl=en_US) team.  The contents of this dataset are synthetic, and are provided to industry practitioners for the purpose of product discovery, testing, and evaluation. The dataset is refreshed on a daily basis.
 
  To access the dataset, follow these steps:
 * Log in to your Google Cloud Platform account and create a new project.
@@ -15,8 +17,24 @@ The dataset is [theLook eCommerce](https://console.cloud.google.com/marketplace/
 * In the navigation panel, select "Add Data", scroll down to "Additional Sources", select "Public Datasets".
 * Search for **"theLook eCommerce"**, then select "View Dataset" . The public project `bigquery-public-data` will appear on the navigation panel, click toggle node to display all the datasets and find **"theLook eCommerce"** dataset.
 * Click toggle node next to the dataset and choose **"events"** table to open it.
+  
+### Overview of dataset
 
-## III. Analysis
+The **"events"** table consists of 13 columns with over 2.4 million rows, each row has information about an event on the company website from 2019 to now. 
+
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/d3208ac8-46fa-4ff2-b312-637deac35a6d)
+
+![image](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/33187bf6-819a-4da5-96a7-da64f0070978)
+
+## III. Business Problems
+
+Conversion rate is one of the key metrics in analyzing business performance, especially for eCommerce company like theLook. It is the percentage of website visitors who make a purchase. A higher conversion rate means that more visitors are converting into customers, which can lead to increased sales and revenue. 
+
+This project will analyze web events data over the last 12 months and make recommendations for the primary question: **How to increase conversion rate of our website?**. I will break down this question into small questions corresponding to the conversing process: visit site - view product - add into cart and purchase.
+
+![Logic Tree - Questions to ask](https://github.com/mytrannn22/Increase-website-conversion-rate/assets/140190425/336527ce-80a7-4af5-96e9-729ff582c53f)
+
+## IV. Analysis
 
 In this project, I will explore data from the last 12 months, from **Aug 2022** to **Jul 2023**. All sessions calculation are based on **session begin time**.
 
@@ -244,7 +262,7 @@ Purchase frequency is a significant factor that can help to improve conversion r
 * Run promotions and discounts exclusively for members?
 * Develop cashback or discount voucher program for the next order, valid for a certain period of time.
 
-## IV. Conclusion
+## V. Conclusion
 
 ### Significant Insights:
 
