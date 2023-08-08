@@ -1,4 +1,4 @@
-# [SQL - BigQuery - Google Sheets] theLook eCommerce - How to increase web conversion rate?
+# [SQL - BigQuery - Google Sheets] theLook eCommerce - How to increase website conversion rate?
 
 ## I. Introduction
 
@@ -23,27 +23,14 @@ In this project, I will explore data from the last 12 months, from **Aug 2022** 
 ### QUERY #01: Total Sessions by browser
 
 * SQL code
-![q1 code](https://github.com/mytrannn22/test-repo/blob/main/images/image.png)
 
 * Query results
-![q1 result](./images/image-1.png)
-![q1 chart](./images/image-2.png)
 
 **Insight:** Chrome is by far the most popular browser.
 
 **Recommendation:** We should prioritize Chrome on the improvement of website compatibility and performance, and focus marketing efforts on it to ensure that the website is accessible to as many users as possible.
 
-### QUERY #02: Total Sessions, Purchase Sessions and Conversion Rate by Traffic source
-
-* SQL code
-
-* Query results
-
-**Insight:** Most traffic come from email, organic drives the least traffic. Conversion rates do not differ among traffic sources, all around 46-47%.
-
-**Recommendation:** Review marketing compaigns conducted in the same time frame and compare their budgets to the total traffic and conversions to evaluate the effectiveness of marketing campaigns, allocate budget accordingly, optimize campaigns and improve the results.
-
-### QUERY #03.1: Bounce Rate by Visitor Type
+### QUERY #02.1: Bounce Rate by Visitor Type
 Bounce rate is the percentage of visitors who leave the website after viewing only one page. It is calculated by dividing the number of single-page sessions (max sequence number = 1) by the total number of sessions. This metric indicates how well the website is meeting the needs of visitors.
 
 * SQL code
@@ -58,7 +45,7 @@ Bounce rate is the percentage of visitors who leave the website after viewing on
 * Encourage guests to register to become members: Make the registration process easy and straightforward with simple form and clear instructions. Highlight the benefits of membership: discounts, vouchers, more accurate recommended products, personalize experiences, etc.
 * Keep guests stay longer: Make sure website loads quickly, use attractive images, videos and content, improve UX/UI so that the web is easy to navigate and understand.
 
-### QUERY #03.2: Bounce Rate by Traffic source
+### QUERY #02.2: Bounce Rate by Traffic source
 
 * SQL code
 
@@ -66,7 +53,7 @@ Bounce rate is the percentage of visitors who leave the website after viewing on
 
 **Insight:** Bounce rates are relatively the same for all traffic sources, around 13%.
 
-### QUERY #03.3: Bounce Rate by Browser
+### QUERY #02.3: Bounce Rate by Browser
 
 * SQL code
 
@@ -74,7 +61,7 @@ Bounce rate is the percentage of visitors who leave the website after viewing on
 
 **Insight:** Bounce rates are relatively the same for all browser, around 13%.
 
-### QUERY #04: Event type of Bounce Session
+### QUERY #03: Event type of Bounce Session
 
 * SQL code
 
@@ -85,6 +72,16 @@ Bounce rate is the percentage of visitors who leave the website after viewing on
 **Recommendation:** 
 * Encourage visitors to view more products: suggest relevant products, recommend hot trend items, use engaging content and high quality product images and videos.
 * Encourage visitors to take further actions - add to cart and purchase: Use effective calls to action, make it clear and straightforward.
+
+### QUERY #04: Total Sessions, Purchase Sessions and Conversion Rate by Traffic source
+
+* SQL code
+
+* Query results
+
+**Insight:** Most traffic come from email, organic drives the least traffic. Conversion rates do not differ among traffic sources, all around 46-47%.
+
+**Recommendation:** Review marketing compaigns conducted in the same time frame and compare their budgets to the total traffic and conversions to evaluate the effectiveness of marketing campaigns, allocate budget accordingly, optimize campaigns and improve the results.
 
 ### QUERY #05: Number of Sessions thoughout purchase process:  view product – add to cart - purchase
 
